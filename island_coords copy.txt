@@ -1,0 +1,90 @@
+Ancient Spire Outpost : Q17
+Ashen Reaches : V23
+Barnacle Cay : O15
+Black Sand Atoll : O3
+Black Water Enclave : R5
+Blind Man's Lagoon : N6
+Booty Isle : K20
+Boulder Cay : G5
+Brian's Bazaar : Y12
+Brimstone Rock : Y18
+Cannon Cove : G10
+Castaway Isle : K14
+Chicken Isle : I16
+Cinder Islet : U14
+Crescent Isle : B9
+Crook's Hollow : M16
+Cursewater Shores : Y13
+Cutlass Cay : M18
+Dagger Tooth Outpost : M8
+Devil's Ridge : P19
+Discovery Ridge : E17
+Fetcher's Rest : V12
+Flame's End : V19
+Flintlock Peninsula : W14
+Fools Lagoon : I14
+Fort Of The Damned : L14
+Galleon's Grave Outpost : R8
+Glowstone Cay : Z18
+Golden Sands Outpost : D10
+Hidden Spring Keep : I8
+Isle of Last Words : O9
+Keel Haul Fort : C6
+Kraken Watchtower : L6
+Kraken's Fall : R12
+Lagoon of Whispers : D12
+Liar's Backbone : S11
+Lone Cove : H6
+Lonely Isle : G8
+Lookout Point : I20
+Lost Gold Fort : H17
+Magma's Tide : Y20
+Marauder's Arch : Q3
+Mermaid's Hideaway : B13
+Molten Sands Fortress : Z11
+Morrow's Peak Outpost : V17
+Mutineer Rock : N19
+Old Faithful Isle : M4
+Old Salts Atoll : F18
+Paradise Spring : L17
+Picaroon Palms : I4
+Plunder Outpost : J18
+Plunder Valley : G16
+Plunderer's Plight : Q6
+Rapier Cay : D8
+Roaring Sands : U21
+Roaring Traders : U20
+Ruby's Fall : Y16
+Rum Runner Isle : H9
+Sailor's Bounty : C4
+Sailor's Knot Stronghold : E14
+Salty Sands : G4
+Sanctuary Outpost : F7
+Sandy Shallows : D5
+Scorched Pass : X11
+Scurvy Isley : K4
+Sea Dog's Rest : C11
+Shark Bait Cove : H19
+Shark Fin Camp : P5
+Shark Tooth Key : P13
+Shipwreck Bay : M10
+Shiver Retreat : Q11
+Skull Keep : P9
+Smugglers' Bay : F3
+Snake Island : K16
+Stephen's Spoils : L15
+The Crooked Masts : O11
+The Crow's Nest Fortress : O17
+The Devil's Thirst : W21
+The Finest Trading Post : F17
+The Forsaken Brink : U16
+The North Star Seapost : H10
+The Reaper's Hideout : I12
+The Spoils of Plenty Store : B7
+The Sunken Grove : P7
+The Wild Treasure Store : O4
+Thieves' Haven : L20
+Three Paces East Seapost : S9
+Tri-Rock Isle : R10
+Twin Groves : H11
+Wanderers Refuge : F12
